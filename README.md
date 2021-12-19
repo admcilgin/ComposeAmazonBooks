@@ -3,8 +3,7 @@
 keywords : Jetpack Compose, Kotlin , Kotlin Flow , FireStore 
 
 ### Captures  
-![cap1](captures/Screenshot_20211219_140728.png =540x1110)
-<img src="captures/Screenshot_20211219_140728.png" width="48">
+<img src="captures/Screenshot_20211219_140728.png" width="540" height="1110">
 
 
 
